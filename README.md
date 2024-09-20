@@ -1,2 +1,2 @@
 # Halcon-WebApp
-WebApplication proyect
+WebApplication project
